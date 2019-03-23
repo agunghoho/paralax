@@ -48,7 +48,7 @@ function dispelParallax() {
 function castSmoothScroll() {
 	$.srSmoothscroll({
 		step: 80,
-		speed: 700,
+		speed: 100,
 		ease: 'linear'
 	});
 }
